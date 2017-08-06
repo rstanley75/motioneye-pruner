@@ -1,8 +1,6 @@
 #!/usr/bin/python
 #
-# motioneye_prune.py
-# 2016-2-28 by Ryan Stanley
-# ryan@stub2.org
+# First created 2016-2-28 by Ryan Stanley (rstanley75@gmail.com)
 #
 # This is a companion program for motioneye.
 # I found the built-in method for file deletion to be inadequate for my needs.
