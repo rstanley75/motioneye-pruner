@@ -10,8 +10,13 @@ It attempts to play safe by retrieving the media path from motioneye.conf instea
 Also, this is my very first python program, so be aware that it's possible I've overlooked something.  Keep this in mind as this program has no problem ruthlessly deleting files it finds in the media path.
 
 Arguments:
+
   -h, --help            show this help message and exit
+  
   -c , --config CONFIG  path to motioneye config file (default: /etc/motioneye/motioneye.conf)
+  
   -f , --free FREE      minimum free disk space, percent (default: 20.00)
+  
   -v, --verbose         verbose output
+  
   -n, --dryrun          perform a trial run with no changes made
